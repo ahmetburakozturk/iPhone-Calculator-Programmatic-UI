@@ -1,8 +1,8 @@
 # iPhone-Calculator-Programmatic-UI
-iPhone Calculator Clone Project with Swift
+iPhone Calculator Clone Project with Swift UIKit
 
 
-Hello everyone, I am currently learning swift and I made this iPhone Calculator Clone App with programmatic UI
+Hello everyone, I am currently learning swift and I made this iPhone Calculator Clone App with programmatic UI.
 Everything's working fine, I checked some technical calculating problems and fixed them.
 I will be happy if you feedback to me about the problems which you found in the app.
 
